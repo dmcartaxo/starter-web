@@ -1,2 +1,4 @@
 hu01.txt
 log/
+*.orig
+*.bak
