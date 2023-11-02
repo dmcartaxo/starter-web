@@ -21,10 +21,8 @@ This is example
 
 ## How To Contribute
 
-This is example
-This is example
-This is example
-This is example
+Please fork this repository and then issue Pull Requests for review.
+
 
 ## Copyright
 
