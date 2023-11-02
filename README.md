@@ -26,3 +26,7 @@ This is example
 This is example
 This is example
 
+## Copyright
+
+Git. Training 2014.
+
