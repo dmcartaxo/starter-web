@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-Add a line for rebasing example, then more change from myfeature branche
+Modifing for close
 
 ## Introduction
 
